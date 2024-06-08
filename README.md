@@ -1,4 +1,7 @@
 # IoTRekSTI
+
+![image](https://github.com/KinantiWening1/IoTRekSTI/assets/78632601/81255f10-d5d5-47b0-9e6e-fba6def2d3dc)
+
 Reksti - Kelompok 1 K2 - Internet of Things and Mobile Application Project
 
 18221044 Kinanti Wening Asih
